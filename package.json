@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-dashboard-mern-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhasraza/E-Commerce-Dashboard-Mern-Stack-.git"
+  },
+  "author": "Minhas Raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhasraza/E-Commerce-Dashboard-Mern-Stack-/issues"
+  },
+  "homepage": "https://github.com/minhasraza/E-Commerce-Dashboard-Mern-Stack-#readme"
+}
